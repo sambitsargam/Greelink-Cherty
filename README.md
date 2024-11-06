@@ -1,7 +1,3 @@
-Certainly! Here’s an updated `README.md` file for your GreenLink project, integrating Cherty for permissioned IPFS storage and Poplar Protocol as the underlying technology.
-
----
-
 # GreenLink: Revolutionizing Waste Recycling through Blockchain and Sustainability
 
 ## Introduction
